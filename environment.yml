@@ -1,0 +1,12 @@
+name: ddc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - casadi>=3.6
+  - osqp>=1.0
+  - pytest
