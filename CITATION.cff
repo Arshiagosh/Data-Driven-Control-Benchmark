@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below."
+title: "Data-Driven-Control-Benchmark: GP-MPC, DeePC and Koopman MPC on simulated plants"
+version: 0.1.0
+date-released: 2026-11-12
+license: MIT
+repository-code: "https://github.com/Arshiagosh/Data-Driven-Control-Benchmark"
+authors:
+  - family-names: Goshtasbi
+    given-names: Arshia
+    affiliation: "Iran University of Science and Technology"
+keywords:
+  - data-driven control
+  - model predictive control
+  - Gaussian processes
+  - DeePC
+  - Koopman operator
+  - system identification
